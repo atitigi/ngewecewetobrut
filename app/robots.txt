@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://ngewecewetobrut.pages.dev/sitemap.xml
